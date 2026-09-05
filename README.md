@@ -25,7 +25,7 @@ An interactive, searchable directory of job search tools and strategies built fr
 |----------|-------|
 | Job Boards & Discovery | LinkedIn Jobs, Indeed, Google Jobs, Glassdoor, ZipRecruiter, Wellfound |
 | Niche & Specialized | FlexJobs, We Work Remotely, Dice, Otta, Handshake, The Muse, Idealist |
-| Resume & ATS | Teal, Jobscan, Careerflow, Rezi, Kickresume, FlowCV, Enhancv |
+| Resume & ATS | Teal, Jobscan, Careerflow, Rezi, Kickresume, FlowCV, Enhancv, [ResumeAI](https://withresumeai.com/) |
 | LinkedIn & Branding | Creator Mode, Taplio, AuthoredUp, Shield Analytics, Portfolio Builders, AI Headshots |
 | Interview Prep | Final Round AI, Interview Sidekick, Google Warmup, Yoodli, Exponent, Big Interview, OfferGenie |
 | Tracking & CRM | Huntr, Teal Tracker, Notion Templates, Airtable, Scale.jobs, Sonara/LazyApply |
